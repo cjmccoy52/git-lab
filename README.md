@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Caleb McCoy             cm955822@ohio.edu
+Caleb McCoy           cm955822@ohio.edu        CS2400, Section 107
 
 My answers are located in the file named answers.md
 =======
